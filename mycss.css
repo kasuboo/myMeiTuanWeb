@@ -65,6 +65,17 @@ body .wrapper{
 	padding:2px;
 }
 
+/*顶部导览条右边*/
+.top-nav .right-navigation{
+	float:right;
+}
+.top-nav .right-navigation ul li{
+	float:right;
+	padding:0 3px;
+}
+.top-nav .right-navigation ul li a:hover{ /*hover:css选择器,当鼠标移到链接上时改变颜色*/
+	color:black;
+}
 
 
 
